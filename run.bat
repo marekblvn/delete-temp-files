@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy Bypass -File "C:\Users\marek\Scripts\delete-temp-files.ps1"
