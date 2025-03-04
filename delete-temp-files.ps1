@@ -48,4 +48,4 @@ Write-Host "Deleting temp files and folders from $($tempFilePath) ..."
 Remove-Contents -currentFolder $tempFilePath
 Write-Host "Deleted $fileCount temp files"
 Write-Host "Deleted $folderCount temp folders"
-Read-Host "Press any key to exit"
+Read-Host "Press Enter to exit"
